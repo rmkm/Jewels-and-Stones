@@ -5,3 +5,8 @@ The letters in `J` are guaranteed distinct, and all characters in `J` and `S` ar
 Letters are case sensitive, so `"a"` is considered a different type of stone from `"A"`.  
 
 The characters in `J` are distinct.
+
+```
+Input: J = "aA", S = "aAAbbbb"
+Output: 3
+```
